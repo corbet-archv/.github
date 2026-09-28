@@ -1,6 +1,6 @@
 # Corbet Archive
 
-Cold storage catalog. Manifests and provenance for archived material; bytes live on server storage, never GitHub.
+Catalogues and provenance records for archived material.
 
 ## Contributing
 
